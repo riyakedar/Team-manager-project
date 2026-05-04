@@ -83,4 +83,3 @@ The app listens on Railway's injected `PORT` and serves the production React bui
 - `GET /api/tasks/stats` - Get dashboard statistics
 - `PUT /api/tasks/:id` - Update task (Members: status only)
 - `DELETE /api/tasks/:id` - Delete task (Admin only)
-

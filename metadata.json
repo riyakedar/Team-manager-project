@@ -1,0 +1,6 @@
+{
+  "name": "Team Task Manager",
+  "description": "A production-ready team collaboration platform with role-based access control, project management, and a real-time Kanban task board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

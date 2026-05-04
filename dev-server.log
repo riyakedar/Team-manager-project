@@ -1,0 +1,13 @@
+
+> react-example@0.0.0 dev
+> tsx server.ts
+
+◇ injected env (3) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Server running on http://localhost:3000
+Connected to MongoDB
+A user connected: _inxuOYxIuSYvjx5AAAC
+User _inxuOYxIuSYvjx5AAAC joined project: 69f78bbf945012dc8eeb4608
+User disconnected: _inxuOYxIuSYvjx5AAAC
+A user connected: rnAPotmwoe36SBAtAAAF
+User rnAPotmwoe36SBAtAAAF joined project: 69f78bbf945012dc8eeb4608
+User disconnected: rnAPotmwoe36SBAtAAAF

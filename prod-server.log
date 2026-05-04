@@ -1,0 +1,7 @@
+
+> react-example@0.0.0 start
+> node dist/server.js
+
+◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
+Connected to MongoDB
+Server running on port 3001
